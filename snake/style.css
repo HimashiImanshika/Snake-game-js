@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+}
+
+#score {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+canvas {
+  background-color: white;
+  border: 2px solid black;
+}
